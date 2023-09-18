@@ -31,10 +31,10 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/Abishnoi69/AsuXMusic"
+                        "•ᴍᴜꜱɪᴄ•", url="https://github.com/Moca96/anonxmusic"
                     ),
                     InlineKeyboardButton(
-                        "•ʀᴏʙᴏᴠ1•", url="https://github.com/Abishnoi69/ExonRobot"
+                        "•ʀᴏʙᴏᴠ1•", url="https://github.com/Moca96/DrimiPrvt"
                     ),
                 ]
             ]
