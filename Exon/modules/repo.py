@@ -12,7 +12,7 @@ from telethon import __version__ as s
 
 from Exon import Abishnoi as pbot
 
-ABISHNOIX = "https://te.legra.ph/file/abfc49a1cc4b5629dc8cd.jpg"
+ABISHNOIX = "https://telegra.ph/file/25362f20d272415a4ed73.jpg"
 
 
 @pbot.on_cmd("repo")
