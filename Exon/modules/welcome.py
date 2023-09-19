@@ -268,7 +268,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome yourself
             elif new_mem.id == bot.id:
                 update.effective_message.reply_text(
-                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @{The_zadkiel} ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
+                    f"ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ",
                     reply_to_message_id=reply,
                 )
                 continue
