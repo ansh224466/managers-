@@ -1,26 +1,26 @@
 ━━━━━━━━━━━━━━━━━━━━
 
-**ᴋɪɴɢ ᴀʙɪsʜɴᴏɪ**
+** ZADKIEL **
 
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 Drimi   ʀᴏʙᴏᴛ 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/zadkiel_z) 
 
 ## sᴛᴀᴛs
 <p align="center">
-<a href="https://github.com/Abishnoi69/ExonRobot/stargazers"><img src="https://img.shields.io/github/stars/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Abishnoi69/ExonRobot/network/members"> <img src="https://img.shields.io/github/forks/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Abishnoi69/ExonRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Moca96/Drimiprvt/stargazers"><img src="https://img.shields.io/github/stars/Moca96/Drimiprvt?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Moca96/Drimiprvt/network/members"> <img src="https://img.shields.io/github/forks/Moca96/Drimiprvt?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Moca96/Drimiprvt/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/github/repo-size/Abishnoi69/ExonRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Abishnoi69/ExonRobot/commits/Abishnoi69"> <img src="https://img.shields.io/github/last-commit/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Moca96/Drimiprvt"> <img src="https://img.shields.io/github/repo-size/Moca96/Drimiprvt?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Moca96/Drimiprvt/commits/Abishnoi69"> <img src="https://img.shields.io/github/last-commit/Moca96/Drimiprvt?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Drimi ✘ ʀᴏʙᴏᴛ](https://t.me/drimi_robot)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -53,7 +53,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ </b>
 </h3></summary>
 
-<p align="center"><a href="https://railway.app/new/template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template=https://github.com/Moca96/Drimiprvt"> <img src="https://img.shields.io/badge/Deploy%20On%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
 
 
 </details>
@@ -82,10 +82,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/Abishnoi69/ExonRobot`
+- `git clone https://github.com/Moca96/Drimiprvt`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
-- `cd ExonRobot`
+- `cd Drimiprvt`
 
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs ʙʏ :
 - `pip3 install -U -r requirements.txt`
@@ -129,7 +129,7 @@ DATABASE_URL =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ https://customer.elephantsql.com/lo
 MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
 TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
-OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id 
+OWNER_ID =  sᴛᴀʀᴛ @Drimi_robot & ᴛʏᴘᴇ /id 
 ```
 </details>
 ━━━━━━━━━━━━━━━━━━━━
@@ -139,28 +139,14 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AbishnoiMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/zadkiel_z"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Abishnoi1M"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/zadkiel_z"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-[ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/Abishnoi_bots/43)
-
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-━━━━━━━━━━━━━━━━━━━━
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
- : ➻
-
-➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
-
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
-
-
-➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
 ━━━━━━━━━━━━━━━━━━━━
