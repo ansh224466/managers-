@@ -3,7 +3,7 @@ language: "𝐇ɪɴᴅɪ "
 
 
 # ɴᴀᴍᴇ ᴏғ ᴘᴇᴏᴘʟᴇ(s) ᴡʜᴏ ᴡᴏʀᴋᴇᴅ ᴏɴ ᴛʜɪs ᴛʀᴀɴsʟᴀᴛɪᴏɴ
-authors: "@zadkiel_z"
+authors: "@Damn_neffex"
 
 # ʟᴀɴɢᴜᴀɢᴇs
 curr_chat_lang: "ʜᴇʏ. ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ʟᴀɴɢᴜᴀɢᴇ ɪs {}, sᴇʟᴇᴄᴛ ᴛʜᴇ ᴏɴᴇ ʏᴏᴜ ᴡᴀɴᴛ ғʀᴏᴍ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ :)"
@@ -20,7 +20,7 @@ pm_start_text: |
       ➢  *ᴄʜᴀᴛs :* 0{}
   
   
-grp_start_text: "ʜɪ, ɪ'ᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ."
+grp_start_text: "ʜɪ, ɪ'ᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ what are you doin?."
    
    
 pm_help_text: |
@@ -106,7 +106,7 @@ antispam_help: |
    ᴀɴᴛɪ-sᴘᴀᴍ, ᴜsᴇᴅ ʙʏ ʙᴏᴛ ᴅᴇᴠs ᴛᴏ ʙᴀɴ sᴘᴀᴍᴍᴇʀs ᴀᴄʀᴏss ᴀʟʟ ɢʀᴏᴜᴘs. ᴛʜɪs ʜᴇʟᴘs ᴘʀᴏᴛᴇᴄᴛ \
    ʏᴏᴜ ᴀɴᴅ ʏᴏᴜʀ ɢʀᴏᴜᴘs ʙʏ ʀᴇᴍᴏᴠɪɴɢ sᴘᴀᴍ ғʟᴏᴏᴅᴇʀs ᴀs ǫᴜɪᴄᴋʟʏ ᴀs ᴘᴏssɪʙʟᴇ
    
-   ɴᴏᴛᴇ: ᴜsᴇʀs ᴄᴀɴ ᴀᴘᴘᴇᴀʟ ɢʙᴀɴs ᴏʀ ʀᴇᴘᴏʀᴛ sᴘᴀᴍᴍᴇʀs ᴀᴛ @AbishnoiMF
+   ɴᴏᴛᴇ: ᴜsᴇʀs ᴄᴀɴ ᴀᴘᴘᴇᴀʟ ɢʙᴀɴs ᴏʀ ʀᴇᴘᴏʀᴛ sᴘᴀᴍᴍᴇʀs ᴀᴛ @Damn_neffex
 
 
 backup_help: |
@@ -354,8 +354,8 @@ fsub_help: |
    •➥ ᴡʜᴇɴ ᴇɴᴀʙʟᴇᴅ ɪ ᴡɪʟʟ ᴍᴜᴛᴇ ᴜɴꜱᴜʙꜱᴄʀɪʙᴇᴅ ᴍᴇᴍʙᴇʀꜱ ᴀɴᴅ ꜱʜᴏᴡ ᴛʜᴇᴍ ᴀ ᴜɴᴍᴜᴛᴇ ʙᴜᴛᴛᴏɴ. ᴡʜᴇɴ ᴛʜᴇʏ ᴘʀᴇꜱꜱᴇᴅ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ɪ ᴡɪʟʟ ᴜɴᴍᴜᴛᴇ ᴛʜᴇᴍ
 
    •➥ *ꜱᴇᴛᴜᴘ*
-   •➥ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/Drimi_Robot?startgroup=new)
-   •➥ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/Drimi_Robot?startgroup=new)
+   •➥ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/Flame_xRobot?startgroup=new)
+   •➥ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/flame_xRobot?startgroup=new)
  
     *ᴄᴏᴍᴍᴍᴀɴᴅꜱ*
    •➥ /fsub channel username - ᴛᴏ ᴛᴜʀɴ ᴏɴ ᴀɴᴅ sᴇᴛᴜᴘ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ.
