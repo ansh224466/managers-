@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABIAHNOI69 
+Copyright (c) 2022 Damn_neffex 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -319,7 +319,7 @@ def admins_only(func: Callable) -> Coroutine:
     return wrapper
 
 
-# @Mr_Dark_Prince
+# @Damn_neffex
 def capture_err(func):
     @wraps(func)
     async def capture(client, message, *args, **kwargs):
@@ -347,7 +347,7 @@ def capture_err(func):
     return capture
 
 
-# @Abishnoi1M
+# @Damn_neffex
 
 
 async def member_permissions(chat_id, user_id):
